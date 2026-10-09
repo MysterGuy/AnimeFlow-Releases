@@ -1,7 +1,7 @@
 <div align="center">
   <img src="assets/animeflow-icon.png" width="88" alt="Ícone do AnimeFlow" />
   <h1>AnimeFlow</h1>
-  <p>Seu próximo anime. Sua biblioteca. Seu ritmo.</p>
+
   <p><strong>3.2.1 estável · Android e Windows</strong></p>
   <p>
     <a href="https://github.com/MysterGuy/AnimeFlow-Releases/releases/tag/v3.2.1">Baixar AnimeFlow</a> ·
