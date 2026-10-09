@@ -2,9 +2,9 @@
   <img src="assets/animeflow-icon.png" width="88" alt="Ícone do AnimeFlow" />
   <h1>AnimeFlow</h1>
   <p>Seu próximo anime. Sua biblioteca. Seu ritmo.</p>
-  <p>Disponível para Android e Windows · <strong>3.1.8 beta</strong></p>
+  <p>Disponível para Android e Windows · <strong>3.1.9 beta</strong></p>
   <p>
-    <a href="https://github.com/MysterGuy/AnimeFlow-Releases/releases/tag/v3.1.8-beta">Baixar</a> ·
+    <a href="https://github.com/MysterGuy/AnimeFlow-Releases/releases/tag/v3.1.9-beta">Baixar</a> ·
     <a href="https://github.com/MysterGuy/AnimeFlow-Releases/releases">Versões anteriores</a> ·
     <a href="https://github.com/MysterGuy/AnimeFlow-Releases/issues">Relatar um problema</a>
   </p>
@@ -20,16 +20,16 @@ AnimeFlow reúne descoberta de animes, reprodução dentro do aplicativo e uma b
 
 | Plataforma | Versão | Download | Requisito |
 | --- | --- | --- | --- |
-| Android | 3.1.8 beta | [Baixar APK](https://github.com/MysterGuy/AnimeFlow-Releases/releases/download/v3.1.8-beta/AnimeFlow-3.1.8-beta.apk) | Android 8.0 ou superior |
-| Windows | 3.1.8 beta | [Baixar instalador](https://github.com/MysterGuy/AnimeFlow-Releases/releases/download/v3.1.8-beta/AnimeFlow-Windows-3.1.8-Setup.exe) | Windows de 64 bits |
+| Android | 3.1.9 beta | [Baixar APK](https://github.com/MysterGuy/AnimeFlow-Releases/releases/download/v3.1.9-beta/AnimeFlow-3.1.9-beta.apk) | Android 8.0 ou superior |
+| Windows | 3.1.9 beta | [Baixar instalador](https://github.com/MysterGuy/AnimeFlow-Releases/releases/download/v3.1.9-beta/AnimeFlow-Windows-3.1.9-Setup.exe) | Windows de 64 bits |
 
-Você também pode consultar todos os arquivos na [página da versão 3.1.8](https://github.com/MysterGuy/AnimeFlow-Releases/releases/tag/v3.1.8-beta).
+Você também pode consultar todos os arquivos na [página da versão 3.1.9](https://github.com/MysterGuy/AnimeFlow-Releases/releases/tag/v3.1.9-beta).
 
 ## Um olhar para o aplicativo
 
-![Tela inicial do AnimeFlow no Windows, com visual escuro e banner de destaque](assets/animeflow-windows-3.1.8.png)
+![Tela inicial do AnimeFlow no Windows, com visual escuro e banner de destaque](assets/animeflow-windows-3.1.9.png)
 
-*Interface do Windows 3.1.8 beta. O Android também utiliza o visual escuro do AnimeFlow, com navegação adaptada ao celular.*
+*Interface do Windows 3.1.9 beta. O Android também utiliza o visual escuro do AnimeFlow, com navegação adaptada ao celular.*
 
 ## O que você encontra
 
@@ -59,11 +59,20 @@ Você também pode consultar todos os arquivos na [página da versão 3.1.8](htt
 
 ## Atualizar sem perder sua biblioteca
 
+> **Se você instalou o APK 3.1.8:** essa versão saiu com o endereço do atualizador vazio e não consegue buscar a correção. Baixe o APK 3.1.9 pelo link acima e instale por cima uma vez, sem desinstalar. As próximas versões podem ser consultadas no app. O Android pede confirmação para concluir a instalação.
+
 Abra a área da sua conta no aplicativo e escolha **Verificar atualizações**. Quando houver uma versão nova, conclua o download e a instalação.
 
 Também é possível baixar o instalador mais recente deste repositório e instalar sobre a versão existente. **Não é necessário desinstalar antes.** Para recuperar sua biblioteca ao reinstalar ou trocar de aparelho, entre com o mesmo e-mail.
 
-## Novidades da 3.1.8 beta
+## Novidades da 3.1.9 beta
+
+- Corrigido o canal de atualização vazio do APK 3.1.8; a consulta agora é feita ao abrir o app.
+- O Android abre o instalador após o download verificado e retoma o fluxo depois da permissão de instalação.
+- Resumos em português pela Wikipédia quando existe uma página correspondente, com referência à fonte.
+- Qualidade de vídeo selecionável quando a transmissão oferece alternativas.
+- Próximo episódio automático configurável e atalhos F, M e N no Windows.
+- Melhor legibilidade no banner, ano e status nos cards e placeholders de carregamento no Windows.
 
 - Visual escuro com detalhes em violeta, banners maiores e cards arredondados.
 - Filtros de temporada de lançamento e ano no Android e no Windows.
@@ -71,7 +80,7 @@ Também é possível baixar o instalador mais recente deste repositório e insta
 - Correção dos filtros que descartavam dublagens da AnimesIce e da AnimesDigital.
 - Melhor correspondência entre nomes alternativos, ingleses e japoneses ao procurar episódios.
 
-Veja as [notas completas da versão](https://github.com/MysterGuy/AnimeFlow-Releases/releases/tag/v3.1.8-beta).
+Veja as [notas completas da versão](https://github.com/MysterGuy/AnimeFlow-Releases/releases/tag/v3.1.9-beta).
 
 ## Catálogo e disponibilidade
 
