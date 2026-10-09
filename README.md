@@ -2,9 +2,9 @@
   <img src="assets/animeflow-icon.png" width="88" alt="Ícone do AnimeFlow" />
   <h1>AnimeFlow</h1>
   <p>Seu próximo anime. Sua biblioteca. Seu ritmo.</p>
-  <p>Disponível para Android e Windows · <strong>3.1.9 beta</strong></p>
+  <p><strong>Windows 3.2.0 estável</strong> · Android 3.1.9 beta</p>
   <p>
-    <a href="https://github.com/MysterGuy/AnimeFlow-Releases/releases/tag/v3.1.9-beta">Baixar</a> ·
+    <a href="https://github.com/MysterGuy/AnimeFlow-Releases/releases/tag/v3.2.0">Baixar para Windows</a> ·
     <a href="https://github.com/MysterGuy/AnimeFlow-Releases/releases">Versões anteriores</a> ·
     <a href="https://github.com/MysterGuy/AnimeFlow-Releases/issues">Relatar um problema</a>
   </p>
@@ -14,22 +14,22 @@
 
 AnimeFlow reúne descoberta de animes, reprodução dentro do aplicativo e uma biblioteca vinculada à sua conta. Explore gêneros e temporadas, guarde seus favoritos e continue de onde parou no Android ou no Windows.
 
-> Este repositório distribui os instaladores e as notas de atualização do AnimeFlow. O aplicativo está em **beta**; o código-fonte não está publicado neste repositório.
+> Este repositório distribui os instaladores e as notas de atualização do AnimeFlow. O Windows está na versão **3.2.0 estável** e o Android segue na **3.1.9 beta**. O código-fonte não está publicado neste repositório.
 
 ## Download
 
 | Plataforma | Versão | Download | Requisito |
 | --- | --- | --- | --- |
 | Android | 3.1.9 beta | [Baixar APK](https://github.com/MysterGuy/AnimeFlow-Releases/releases/download/v3.1.9-beta/AnimeFlow-3.1.9-beta.apk) | Android 8.0 ou superior |
-| Windows | 3.1.9 beta | [Baixar instalador](https://github.com/MysterGuy/AnimeFlow-Releases/releases/download/v3.1.9-beta/AnimeFlow-Windows-3.1.9-Setup.exe) | Windows de 64 bits |
+| Windows | 3.2.0 estável | [Baixar instalador](https://github.com/MysterGuy/AnimeFlow-Releases/releases/download/v3.2.0/AnimeFlow-Windows-3.2.0-Setup.exe) | Windows de 64 bits |
 
-Você também pode consultar todos os arquivos na [página da versão 3.1.9](https://github.com/MysterGuy/AnimeFlow-Releases/releases/tag/v3.1.9-beta).
+Consulte as [notas da release Windows 3.2.0](https://github.com/MysterGuy/AnimeFlow-Releases/releases/tag/v3.2.0) ou a [beta Android 3.1.9](https://github.com/MysterGuy/AnimeFlow-Releases/releases/tag/v3.1.9-beta).
 
 ## Um olhar para o aplicativo
 
 ![Tela inicial do AnimeFlow no Windows, com visual escuro e banner de destaque](assets/animeflow-windows-3.1.9.png)
 
-*Interface do Windows 3.1.9 beta. O Android também utiliza o visual escuro do AnimeFlow, com navegação adaptada ao celular.*
+*Visual do Windows, mantido na 3.2.0. O Android utiliza a mesma identidade, com navegação adaptada ao celular.*
 
 ## O que você encontra
 
@@ -37,6 +37,7 @@ Você também pode consultar todos os arquivos na [página da versão 3.1.9](htt
 - **Biblioteca:** favoritos, histórico e progresso associados à sua conta Firebase.
 - **Continue assistindo:** acesso aos títulos e episódios que você já começou.
 - **Player integrado:** tela cheia, controles de reprodução, avanço e retorno de 10 segundos e ajuste de velocidade.
+- **Pular abertura no Windows:** botão durante aberturas com marcação compatível no AniSkip.
 - **Idiomas:** opções legendadas e dubladas conforme a disponibilidade encontrada nas fontes.
 - **Atualizações:** consulta e download de novas versões dentro do aplicativo.
 
@@ -55,6 +56,8 @@ Você também pode consultar todos os arquivos na [página da versão 3.1.9](htt
 2. Siga as etapas de instalação e abra o AnimeFlow.
 3. Entre com sua conta ou cadastre uma nova conta e confirme o e-mail.
 
+O instalador ainda não possui certificado público de assinatura de código. O Windows pode mostrar aviso de editor desconhecido. Baixe pelos links deste repositório.
+
 **Use a mesma conta nas duas plataformas** para acessar sua biblioteca. A sincronização de dados exige conexão com a internet.
 
 ## Atualizar sem perder sua biblioteca
@@ -65,22 +68,16 @@ Abra a área da sua conta no aplicativo e escolha **Verificar atualizações**. 
 
 Também é possível baixar o instalador mais recente deste repositório e instalar sobre a versão existente. **Não é necessário desinstalar antes.** Para recuperar sua biblioteca ao reinstalar ou trocar de aparelho, entre com o mesmo e-mail.
 
-## Novidades da 3.1.9 beta
+## Novidades do Windows 3.2.0
 
-- Corrigido o canal de atualização vazio do APK 3.1.8; a consulta agora é feita ao abrir o app.
-- O Android abre o instalador após o download verificado e retoma o fluxo depois da permissão de instalação.
-- Resumos em português pela Wikipédia quando existe uma página correspondente, com referência à fonte.
-- Qualidade de vídeo selecionável quando a transmissão oferece alternativas.
-- Próximo episódio automático configurável e atalhos F, M e N no Windows.
-- Melhor legibilidade no banner, ano e status nos cards e placeholders de carregamento no Windows.
+- Botão de próximo episódio corrigido, com clique acessível sobre o vídeo.
+- Troca de episódio sem esperar o salvamento na nuvem, preservando anime e idioma.
+- Botão **Pular abertura** nos episódios com marcações compatíveis do AniSkip.
+- Publicação Windows independente: o Android continua na beta 3.1.9.
 
-- Visual escuro com detalhes em violeta, banners maiores e cards arredondados.
-- Filtros de temporada de lançamento e ano no Android e no Windows.
-- Novos títulos na página inicial do Windows e consultas anuais atualizadas no Android.
-- Correção dos filtros que descartavam dublagens da AnimesIce e da AnimesDigital.
-- Melhor correspondência entre nomes alternativos, ingleses e japoneses ao procurar episódios.
+O botão de abertura aparece durante o trecho marcado e pula para seu final. Os tempos são comunitários e não existem para todos os episódios. Se o serviço estiver indisponível ou a duração do vídeo não corresponder, o player continua funcionando sem o botão. Não são aplicados saltos fixos de 90 segundos.
 
-Veja as [notas completas da versão](https://github.com/MysterGuy/AnimeFlow-Releases/releases/tag/v3.1.9-beta).
+Veja as [notas completas da release](https://github.com/MysterGuy/AnimeFlow-Releases/releases/tag/v3.2.0). Marcações de abertura: [AniSkip](https://github.com/aniskip/aniskip-extension).
 
 ## Catálogo e disponibilidade
 
