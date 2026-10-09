@@ -4,7 +4,7 @@
   <p>Seu próximo anime. Sua biblioteca. Seu ritmo.</p>
   <p>Disponível para Android e Windows · <strong>3.1.8 beta</strong></p>
   <p>
-    <a href="https://github.com/MysterGuy/AnimeFlow-Releases/releases/latest">Baixar</a> ·
+    <a href="https://github.com/MysterGuy/AnimeFlow-Releases/releases/tag/v3.1.8-beta">Baixar</a> ·
     <a href="https://github.com/MysterGuy/AnimeFlow-Releases/releases">Versões anteriores</a> ·
     <a href="https://github.com/MysterGuy/AnimeFlow-Releases/issues">Relatar um problema</a>
   </p>
