@@ -1,11 +1,11 @@
 <div align="center">
-  <img src="assets/animeflow-icon-322.svg" width="80" alt="AnimeFlow" />
+  <img src="assets/animeflow-icon.png" width="80" alt="AnimeFlow" />
   <h1>AnimeFlow</h1>
   <p>Animes, episódios e sua biblioteca no celular e no computador.</p>
-  <p><strong>3.2.1 estável · Android e Windows</strong></p>
+  <p><strong>3.2.2 estável · Android e Windows</strong></p>
   <p>
-    <a href="https://github.com/MysterGuy/AnimeFlow-Releases/releases/download/v3.2.1/AnimeFlow-3.2.1.apk">Baixar para Android</a> ·
-    <a href="https://github.com/MysterGuy/AnimeFlow-Releases/releases/download/v3.2.1/AnimeFlow-Windows-3.2.1-Setup.exe">Baixar para Windows</a>
+    <a href="https://github.com/MysterGuy/AnimeFlow-Releases/releases/download/v3.2.2/AnimeFlow-3.2.2.apk">Baixar para Android</a> ·
+    <a href="https://github.com/MysterGuy/AnimeFlow-Releases/releases/download/v3.2.2/AnimeFlow-Windows-3.2.2-Setup.exe">Baixar para Windows</a>
   </p>
 </div>
 
@@ -13,7 +13,7 @@
 
 Encontre um anime, escolha um episódio e continue de onde parou. Seus favoritos e seu histórico acompanham a conta, então você pode usar o mesmo e-mail no Android e no Windows.
 
-![Tela inicial do AnimeFlow no Windows](assets/animeflow-windows-3.2.1.png)
+![Tela inicial do AnimeFlow no Windows](assets/animeflow-windows-3.2.2.png)
 
 *Prévia da interface Windows. Os destaques são consultados na hora; títulos e posições podem mudar.*
 
@@ -26,13 +26,19 @@ Encontre um anime, escolha um episódio e continue de onde parou. Seus favoritos
 
 No player, você pode avançar para o próximo episódio, ativar a reprodução automática, ajustar a velocidade e pular a abertura quando o episódio tiver uma marcação disponível. As opções dublada e legendada aparecem conforme os episódios encontrados.
 
+<details>
+  <summary>Ver o player no Android</summary>
+  <br />
+  <img src="assets/animeflow-android-player.png" alt="Controles do player Android" width="800" />
+  <p>Controles adaptados ao celular, com próximo episódio e avanço automático.</p>
+</details>
 
 ## Instalar
 
 | Plataforma | Download | Requisito |
 | --- | --- | --- |
-| Android | [APK 3.2.1](https://github.com/MysterGuy/AnimeFlow-Releases/releases/download/v3.2.1/AnimeFlow-3.2.1.apk) | Android 8.0 ou superior |
-| Windows | [Instalador 3.2.1](https://github.com/MysterGuy/AnimeFlow-Releases/releases/download/v3.2.1/AnimeFlow-Windows-3.2.1-Setup.exe) | Windows de 64 bits |
+| Android | [APK 3.2.2](https://github.com/MysterGuy/AnimeFlow-Releases/releases/download/v3.2.2/AnimeFlow-3.2.2.apk) | Android 8.0 ou superior |
+| Windows | [Instalador 3.2.2](https://github.com/MysterGuy/AnimeFlow-Releases/releases/download/v3.2.2/AnimeFlow-Windows-3.2.2-Setup.exe) | Windows de 64 bits |
 
 Abra o arquivo baixado e siga a instalação. No Android, permita instalar pelo aplicativo usado para abrir o APK, caso o sistema solicite. Depois, entre ou crie sua conta e confirme o e-mail.
 
@@ -44,11 +50,11 @@ Abra **Minha conta → Verificar atualizações**, baixe a nova versão e confir
 
 Se estiver usando o APK 3.1.8, baixe a versão atual manualmente uma vez. Aquela versão tinha uma falha no endereço do atualizador.
 
-## Próxima atualização
+## O que mudou na 3.2.2
 
-A versão 3.2.2 está preparada com ícone redesenhado, conta com textos mais simples e sinopses sem rótulos extras. Nessa atualização, as referências dos resumos ficam em **Informações e créditos**, na área da conta. O Top 10, a agenda e as melhorias do player da 3.2.1 continuam disponíveis nas duas plataformas.
+Ícone redesenhado, conta com textos mais simples e sinopses sem rótulos extras. As referências dos resumos ficam em **Informações e créditos**, na área da conta. O Top 10, a agenda e as melhorias do player da 3.2.1 continuam disponíveis nas duas plataformas.
 
-[Notas da atualização](https://github.com/MysterGuy/AnimeFlow-Releases/releases/tag/v3.2.1) · [Versões anteriores](https://github.com/MysterGuy/AnimeFlow-Releases/releases)
+[Notas da atualização](https://github.com/MysterGuy/AnimeFlow-Releases/releases/tag/v3.2.2) · [Versões anteriores](https://github.com/MysterGuy/AnimeFlow-Releases/releases)
 
 ## Sobre o catálogo
 
