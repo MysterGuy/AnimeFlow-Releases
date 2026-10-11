@@ -2,10 +2,10 @@
   <img src="assets/animeflow-icon.png" width="80" alt="AnimeFlow" />
   <h1>AnimeFlow</h1>
   <p>Animes, episódios e sua biblioteca no celular e no computador.</p>
-  <p><strong>3.2.2 estável · Android e Windows</strong></p>
+  <p><strong>3.2.3 estável · Android e Windows</strong></p>
   <p>
-    <a href="https://github.com/MysterGuy/AnimeFlow-Releases/releases/download/v3.2.2/AnimeFlow-3.2.2.apk">Baixar para Android</a> ·
-    <a href="https://github.com/MysterGuy/AnimeFlow-Releases/releases/download/v3.2.2/AnimeFlow-Windows-3.2.2-Setup.exe">Baixar para Windows</a>
+    <a href="https://github.com/MysterGuy/AnimeFlow-Releases/releases/download/v3.2.3/AnimeFlow-3.2.3.apk">Baixar para Android</a> ·
+    <a href="https://github.com/MysterGuy/AnimeFlow-Releases/releases/download/v3.2.3/AnimeFlow-Windows-3.2.3-Setup.exe">Baixar para Windows</a>
   </p>
 </div>
 
@@ -13,9 +13,11 @@
 
 Encontre um anime, escolha um episódio e continue de onde parou. Seus favoritos e seu histórico acompanham a conta, então você pode usar o mesmo e-mail no Android e no Windows.
 
-![Tela inicial do AnimeFlow no Windows](assets/animeflow-windows-3.2.2.png)
+<p align="center"><img src="assets/animeflow-android-3.2.3.png" width="300" alt="Nova tela inicial no Android" /></p>
 
-*Prévia da interface Windows. Os destaques são consultados na hora; títulos e posições podem mudar.*
+![Tela inicial do AnimeFlow no Windows](assets/animeflow-windows-3.2.3.png)
+
+*Prévias da interface 3.2.3 com dados de demonstração. Os destaques e o conteúdo da sua biblioteca variam.*
 
 ## Para encontrar sua próxima série
 
@@ -37,8 +39,8 @@ No player, você pode avançar para o próximo episódio, ativar a reprodução 
 
 | Plataforma | Download | Requisito |
 | --- | --- | --- |
-| Android | [APK 3.2.2](https://github.com/MysterGuy/AnimeFlow-Releases/releases/download/v3.2.2/AnimeFlow-3.2.2.apk) | Android 8.0 ou superior |
-| Windows | [Instalador 3.2.2](https://github.com/MysterGuy/AnimeFlow-Releases/releases/download/v3.2.2/AnimeFlow-Windows-3.2.2-Setup.exe) | Windows de 64 bits |
+| Android | [APK 3.2.3](https://github.com/MysterGuy/AnimeFlow-Releases/releases/download/v3.2.3/AnimeFlow-3.2.3.apk) | Android 8.0 ou superior |
+| Windows | [Instalador 3.2.3](https://github.com/MysterGuy/AnimeFlow-Releases/releases/download/v3.2.3/AnimeFlow-Windows-3.2.3-Setup.exe) | Windows de 64 bits |
 
 Abra o arquivo baixado e siga a instalação. No Android, permita instalar pelo aplicativo usado para abrir o APK, caso o sistema solicite. Depois, entre ou crie sua conta e confirme o e-mail.
 
@@ -50,15 +52,19 @@ Abra **Minha conta → Verificar atualizações**, baixe a nova versão e confir
 
 Se estiver usando o APK 3.1.8, baixe a versão atual manualmente uma vez. Aquela versão tinha uma falha no endereço do atualizador.
 
-## O que mudou na 3.2.2
+## O que mudou na 3.2.3
 
-Ícone redesenhado, conta com textos mais simples e sinopses sem rótulos extras. As referências dos resumos ficam em **Informações e créditos**, na área da conta. O Top 10, a agenda e as melhorias do player da 3.2.1 continuam disponíveis nas duas plataformas.
+A interface ganhou fundo grafite, detalhes em cobre, capas maiores e uma leitura mais tranquila. No Android, a tela inicial, os detalhes, a busca, os favoritos e a conta foram reorganizados. O Windows acompanha a mesma identidade.
 
-[Notas da atualização](https://github.com/MysterGuy/AnimeFlow-Releases/releases/tag/v3.2.2) · [Versões anteriores](https://github.com/MysterGuy/AnimeFlow-Releases/releases)
+As listas agora buscam os **nomes dos episódios**, mantendo o número fácil de encontrar. Login, favoritos, histórico, idiomas, próximo episódio e atualizações continuam funcionando como antes.
+
+[Notas da atualização](https://github.com/MysterGuy/AnimeFlow-Releases/releases/tag/v3.2.3) · [Versões anteriores](https://github.com/MysterGuy/AnimeFlow-Releases/releases)
 
 ## Sobre o catálogo
 
 O Top 10 usa tendências do AniList e a agenda informa exibições previstas. Ambos são atualizados ao longo do dia. Um episódio previsto pode chegar mais tarde às fontes de vídeo, e a cobertura de títulos, temporadas e idiomas varia.
+
+Os nomes de episódios aproveitam os títulos das fontes e os metadados do [Kitsu](https://kitsu.io/), associados pelo ID da obra. A busca acontece em segundo plano. Quando não há nome disponível, mostramos o número; alguns títulos podem aparecer em inglês, conforme o cadastro original. Isso não altera o idioma do vídeo nem cria episódios indisponíveis.
 
 As marcações de abertura vêm do [AniSkip](https://github.com/aniskip/aniskip-extension). Quando não existe uma marcação compatível, o player segue normalmente.
 
