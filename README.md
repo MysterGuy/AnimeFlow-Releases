@@ -13,8 +13,6 @@
 
 Encontre um anime, escolha um episódio e continue de onde parou. Seus favoritos e seu histórico acompanham a conta, então você pode usar o mesmo e-mail no Android e no Windows.
 
-<p align="center"><img src="assets/animeflow-android-3.2.3.png" width="300" alt="Nova tela inicial no Android" /></p>
-
 ![Tela inicial do AnimeFlow no Windows](assets/animeflow-windows-3.2.3.png)
 
 *Prévias da interface 3.2.3 com dados de demonstração. Os destaques e o conteúdo da sua biblioteca variam.*
